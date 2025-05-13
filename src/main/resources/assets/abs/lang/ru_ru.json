@@ -1,5 +1,11 @@
 {
   "item.abs.abs_dust": "Пыль Абсолюта",
+  "item.abs.abs_ingot": "Слиток Абсолюта",
+  "item.abs.lighter": "Зажигалка",
   "block.abs.abs_block": "Блок Абсолюта",
+  "block.abs.abs_collector": "Сборщик Абсолюта",
+  "block.abs.paving_stone_travel": "Камень Путешественника",
+  "block.abs.abs_generator": "Генератор Абсолюта",
+  "screen.absolute.absolute_generator": "Генератор Абсолюта",
   "itemGroup.absoluteModTab": "Абсолют"
 }

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "abs:block/generator/abs_generator_side",
+    "up": "abs:block/generator/abs_generator_top",
+    "down": "abs:block/generator/abs_generator_bottom",
+    "north": "abs:block/generator/abs_generator_side",
+    "south": "abs:block/generator/abs_generator_side",
+    "east": "abs:block/generator/abs_generator_side",
+    "west": "abs:block/generator/abs_generator_side"
+  }
+}

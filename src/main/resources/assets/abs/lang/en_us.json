@@ -1,5 +1,11 @@
 {
   "item.abs.abs_dust": "Absolute Dust",
+  "item.abs.abs_ingot": "Absolute Ingot",
+  "item.abs.lighter": "Lighter",
   "block.abs.abs_block": "Absolute Block",
+  "block.abs.abs_collector": "Absolute Collector",
+  "block.abs.paving_stone_travel": "Paving Stone Travel",
+  "block.abs.abs_generator": "Absolute Generator",
+  "screen.absolute.absolute_generator": "Absolute Generator",
   "itemGroup.absoluteModTab": "Absolute"
 }
